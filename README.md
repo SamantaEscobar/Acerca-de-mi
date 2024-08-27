@@ -1,1 +1,2 @@
 # Acerca-de-mi
+Analista de datos y licenciada en comunicación y periodismo, he colaborado en proyectos de extracción, transformación y visualización de datos para la toma de decisiones estratégicas. Con experiencia en el procesamiento de información a través de herramientas como Python, SQL, Power BI y Looker Studio. Además, he colaborado en la creación de contenido sobre la operación de startups y proptechs Latinoamericanas. En constante búsqueda de nuevos conocimientos que permitan expandir mi vida profesional y entusiasta de colaborar en entornos multidisciplinarios.
